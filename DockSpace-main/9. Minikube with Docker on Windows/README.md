@@ -1,9 +1,5 @@
 # Minikube with Docker on Windows ☸️
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TarakKatoch/My-Docker-Dockyard/54505203108590859cc273cd9a1c18bb9f018e76/Minikube%20with%20Docker%20on%20Windows/assets/logo.png" alt="Minikube Logo" width="200" />
-</p>
-
 ## What is Minikube? 
 
 **Minikube** is a tool that helps you run a local Kubernetes cluster on your machine. It's perfect for developers who want to experiment with Kubernetes without setting up a large cloud infrastructure. Minikube provides a simple way to start a Kubernetes cluster on a local machine, and it works with various drivers like Docker, VirtualBox, and Hyper-V.
@@ -57,14 +53,6 @@ Verify installation:
 ```bash
 kubectl version --client
 ```
-![image](https://github.com/vidhi-jaju/DockSpace/blob/e8159bccb2036cd49d457e38687b868940b3800f/9.%20Minikube%20with%20Docker%20on%20Windows/images/1.png)
-![image](https://github.com/vidhi-jaju/DockSpace/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/2.png)
-![image](https://github.com/vidhi-jaju/DockSpace/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/3.png)
-![image](https://github.com/vidhi-jaju/DockSpace/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/4.png)
-
-![image](https://github.com/vidhi-jaju/DockSpace/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/5.png)
-
-![image](https://github.com/vidhi-jaju/DockSpace/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/6.png)
 
 ---
 
@@ -82,7 +70,6 @@ Check the status:
 ```bash
 minikube status
 ```
-![image](https://github.com/vidhi-jaju/DockSpace/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/7.png)
 
 ---
 
@@ -106,7 +93,6 @@ minikube service nginx --url
 ```
 Open the URL in your browser to see the running nginx web server. 🌐
 
-![image](https://github.com/vidhi-jaju/DockSpace/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/8.png)
 
 ---
 
@@ -132,9 +118,7 @@ kubectl get pods
 kubectl delete service nginx
 kubectl delete deployment nginx
 ```
-![image](https://github.com/vidhi-jaju/DockSpace/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/9.png)
 
----
 
 ## ✅ Step 5: Stop and Delete Minikube 🗑️
 
@@ -148,7 +132,7 @@ minikube stop
 minikube delete
 ```
 This removes all Kubernetes resources.
-![image](https://github.com/vidhi-jaju/DockSpace/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/10.png)
+
 
 ---
 
