@@ -85,8 +85,11 @@ docker exec -it sneha-database ping 172.20.240.2
 ### Ping from **sneha-server-A** to **sneha-database**
 
 ```bash
+
 docker exec -it sneha-server-A ping 172.20.240.1
 ```
+![Alt text](./images/imageforvisualisation.jpg)
+
 
 ✅ Expected Outcome: Both containers should successfully **ping** each other.
 
