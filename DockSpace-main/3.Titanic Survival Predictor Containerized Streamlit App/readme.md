@@ -85,7 +85,9 @@ cd Titanic-Prediction-Model
 ### **2️⃣ Build the Docker Image**
 ```bash
 docker build -t titanic-prediction .
+
 ```
+![Alt text](proof2.jpg)
 
 ### **3️⃣ Run the Docker Container**
 ```bash
@@ -97,6 +99,7 @@ Open your browser and navigate to:
 ```
 http://localhost:8501
 ```
+![Alt text](proof1.jpg)
 
 ![Alt text](img2.png)
 ---
