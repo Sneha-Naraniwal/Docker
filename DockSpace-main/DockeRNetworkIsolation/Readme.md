@@ -1,12 +1,12 @@
-# 🚀 Docker Bridge: Balancing Isolation & Connectivity
+# 🌐 Docker Bridge: Balancing Isolation & Connectivity
 
-## 📌 Objective
+##  Objective
 
 The goal of this exercise is to explore and demonstrate **network isolation** in Docker containers. We will examine how containers within the same **custom bridge network** can communicate, while those on different networks remain **isolated**. Understanding this is crucial for securing microservices and containerized applications.
 
 ---
 
-## 🌐 Introduction to Docker Networking
+## Introduction to Docker Networking
 
 Docker networking is fundamental for **containerized applications**, allowing containers to communicate while ensuring **security and isolation**. Docker provides several networking options:
 
