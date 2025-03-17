@@ -53,17 +53,7 @@ Verify installation:
 ```bash
 kubectl version --client
 ```
-<<<<<<< HEAD
-=======
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/e8159bccb2036cd49d457e38687b868940b3800f/9.%20Minikube%20with%20Docker%20on%20Windows/images/1.png)
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/2.png)
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/3.png)
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/4.png)
 
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/5.png)
-
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/6.png)
->>>>>>> 09ddb14 (docker's work)
 
 ---
 
@@ -81,10 +71,6 @@ Check the status:
 ```bash
 minikube status
 ```
-<<<<<<< HEAD
-=======
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/7.png)
->>>>>>> 09ddb14 (docker's work)
 
 ---
 
@@ -108,10 +94,6 @@ minikube service nginx --url
 ```
 Open the URL in your browser to see the running nginx web server. 🌐
 
-<<<<<<< HEAD
-=======
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/8.png)
->>>>>>> 09ddb14 (docker's work)
 
 ---
 
@@ -137,10 +119,7 @@ kubectl get pods
 kubectl delete service nginx
 kubectl delete deployment nginx
 ```
-<<<<<<< HEAD
-=======
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/9.png)
->>>>>>> 09ddb14 (docker's work)
+
 
 
 ## ✅ Step 5: Stop and Delete Minikube 🗑️
@@ -155,11 +134,6 @@ minikube stop
 minikube delete
 ```
 This removes all Kubernetes resources.
-<<<<<<< HEAD
-
-=======
-![image](https://github.com/Sneha Naraniwal/containerexp/blob/54b356d888b5072f9cd4f80b69f6c1bf9277a7df/9.%20Minikube%20with%20Docker%20on%20Windows/images/10.png)
->>>>>>> 09ddb14 (docker's work)
 
 ---
 
