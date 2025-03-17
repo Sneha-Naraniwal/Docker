@@ -86,6 +86,7 @@ sneha-server-A: 172.20.240.2
 ```bash
 docker exec -it sneha-database ping 172.20.240.2
 ```
+![Alt text](images/proof2.jpg)
 
 ### Ping from **sneha-server-A** to **sneha-database**
 
