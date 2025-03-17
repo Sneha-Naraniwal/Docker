@@ -6,7 +6,7 @@ Welcome to **containerexp**! 🌊 This repository is my personal harbor of conta
 
 ## 📦 **Containerized Projects on Board**  
 
-### 🐳 [DOCKER BASICS: Hello, Container World!](https://github.com/SnehaNaraniwal/containerexp/tree/e58f4f66a04d80eea8636f8b2aa8ccab0dc61864/1.DOCKER%20BASICS%3A%20Hello%20World)  
+### 🐳 [DOCKER BASICS: Hello, Container World!](https://github.com/Sneha-Naraniwal/Docker/tree/main/DockSpace-main/1.DOCKER%20BASICS_%20Hello%20World)  
 - **Goal:** Kickstart my Docker journey by running the classic "Hello World" container.  
 - **Key Focus:** Understanding basic Docker commands, image execution, and container runtime.  
 
