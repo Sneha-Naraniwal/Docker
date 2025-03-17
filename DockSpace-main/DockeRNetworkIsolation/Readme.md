@@ -63,6 +63,7 @@ docker run -itd --net=sneha-bridge --name=sneha-database redis
 ```bash
 docker run -itd --net=sneha-bridge --name=sneha-server-A busybox
 ```
+![Alt text](images/proof3.jpg)
 
 ### 📌 Check Container IPs
 
