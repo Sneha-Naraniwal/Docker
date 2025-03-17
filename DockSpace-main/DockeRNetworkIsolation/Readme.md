@@ -142,6 +142,7 @@ docker network inspect bridge
 ✅ `bridge` should contain `sneha-server-B`.  
 
 ---
+![Alt text](images/proof4.jpg)
 
 ## 🏆 Conclusion
 
