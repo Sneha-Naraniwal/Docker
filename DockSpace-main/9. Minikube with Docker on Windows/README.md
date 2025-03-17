@@ -73,6 +73,8 @@ minikube status
 ```
 
 ---
+![Alt text](images/prrof1.jpg)
+
 
 ## ✅ Step 3: Deploy an Application 🚀
 
@@ -82,6 +84,7 @@ Deploy a simple application (nginx).
 ```bash
 kubectl create deployment nginx --image=nginx
 ```
+![Alt text](images/proof2.jpg)
 
 ### 2. Expose the Deployment 🔓
 ```bash
@@ -96,6 +99,7 @@ Open the URL in your browser to see the running nginx web server. 🌐
 
 
 ---
+![Alt text](images/proof3.jpg)
 
 ## ✅ Step 4: Manage Kubernetes Cluster
 
@@ -136,6 +140,7 @@ minikube delete
 This removes all Kubernetes resources.
 
 ---
+![Alt text](images/proof4.jpg)
 
 ## 🎯 Conclusion
 
